@@ -5,4 +5,5 @@
 FNAME = 'Pat'
 NTYPE = '*amazing*'
 RNUM = 420000
-NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number {1}!'.format(NTYPE, RNUM, friend=FNAME)
+NEWS = 'Hi {friend}! I have {0} news!I won the raffle with number {1}!'
+NEWS = NEWS.format(NTYPE, RNUM, friend=FNAME)
