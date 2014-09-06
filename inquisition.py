@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+"""This module allows students to practice adding multiline docstrings."""
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
@@ -11,4 +11,4 @@ Our four...no... amongst our weapons....
 amongst our weaponry are such elements as fear, surprise....
 I'll come in again.'''
 
-'''This module allows students to practice adding multiline docstrings'''
+
