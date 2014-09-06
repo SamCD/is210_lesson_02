@@ -4,4 +4,3 @@
 
 ESCAPE_STRING = ' \\n\'\" '
 print ESCAPE_STRING
-
