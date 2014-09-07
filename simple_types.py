@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""Working with simple data types"""
 
-#Task 17
 IS_TRUE = True
 IS_FALSE = False
 IS_NONE = None
