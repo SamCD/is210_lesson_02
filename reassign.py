@@ -7,6 +7,6 @@ Strings are immutable but what about the variables that hold them?
 
 
 RAVEN = 'quoth'
-print(RAVEN)
+print RAVEN
 RAVEN = 'Nevermore!'
-print(RAVEN)
+print RAVEN
