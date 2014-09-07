@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""The weapons of the Spanish Inquisition"""
 
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
