@@ -6,8 +6,7 @@ from decimal import Decimal
 from fractions import Fraction
 
 FLOATVAR = 0.1
-DECIMALVAR0 = Decimal(.01)
-DECIMALVAR = '{0:4.2f}'.format(DECIMALVAR0)
+DECIMALVAR = Decimal('0.1')
 FRACTIONVAR = Fraction(1, 10)
 
 DF_EQUALITY = DECIMALVAR == FRACTIONVAR
