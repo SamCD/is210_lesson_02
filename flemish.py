@@ -2,19 +2,17 @@
 # -*- coding: utf-8 -*-
 """Contains expectations."""
 
-#Task 11
 import inquisition
-inquisition.SPANISH
 
 SPANISH = inquisition.SPANISH
 FISHY = SPANISH.replace('surprise', 'haddock')
 print FISHY
 
-x = 'Spanish'
+MID = 'Spanish'
 print len(x)
 print SPANISH.index(x)
-beg = SPANISH[:18]
-end = SPANISH[27:]
+BEG = SPANISH[:18]
+END = SPANISH[27:]
 f = ' Flemish '
-FLEMISH =beg + f + end 
+FLEMISH = BEG + MID + END
 print FLEMISH
