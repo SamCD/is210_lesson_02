@@ -19,9 +19,7 @@ NERVOUS_AS = """
 
 """
 
-#Task 8 part 1
-NERVOUS_AS = NERVOUS_AS.strip( )
+NERVOUS_AS = NERVOUS_AS.strip()
 
-#Task 8 part 2
 NERVOUS_AS = NERVOUS_AS.rstrip(',').lstrip('/')
 print NERVOUS_AS
