@@ -8,11 +8,11 @@ SPANISH = inquisition.SPANISH
 FISHY = SPANISH.replace('surprise', 'haddock')
 print FISHY
 
-MID = 'Spanish'
-print len(x)
-print SPANISH.index(x)
+OLD = 'Spanish'
+print len(OLD)
+print SPANISH.index(OLD)
 BEG = SPANISH[:18]
 END = SPANISH[27:]
-f = ' Flemish '
+MID = ' Flemish '
 FLEMISH = BEG + MID + END
 print FLEMISH
