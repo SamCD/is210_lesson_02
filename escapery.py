@@ -2,5 +2,5 @@
 # -*- coding: utf-8 -*-
 """using the escape"""
 
-ESCAPE_STRING = '\\n\'\"'
+ESCAPE_STRING = '\\n'
 print ESCAPE_STRING
