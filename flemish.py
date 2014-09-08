@@ -13,6 +13,6 @@ L = len(OLD)
 I = FISHY.index(OLD)
 BEG = FISHY[:I]
 END = FISHY[I+L:]
-MID = ' Flemish '
+MID = 'Flemish'
 FLEMISH = BEG + MID + END
 print FLEMISH
