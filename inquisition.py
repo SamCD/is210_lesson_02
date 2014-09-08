@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""The weapons of the Spanish Inquisition.
+
+Looks like surprise is the main weapon!
+"""
 
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
