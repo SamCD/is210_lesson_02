@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+''' task9 by mark madden'''
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
@@ -10,3 +10,7 @@ and an almost fanatical devotion to the Pope....
 Our four...no... amongst our weapons....
 amongst our weaponry are such elements as fear, surprise....
 I'll come in again.'''
+
+''' This module is for task 09 of the lesson 2 homework.
+I hope I interpreted the instructions correctly here,
+it's time to test. '''
