@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """Provides variables for formatting."""
 
+
 FNAME = 'Pat'
 NTYPE = '*amazing*'
 RNUM = 42
