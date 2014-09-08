@@ -2,5 +2,5 @@
 # -*- coding: utf-8 -*-
 """Practice using escape characters"""
 
-ESCAPE_STRING = '\'\\\\n\''
-print ESCAPE_STRING
+ESCAPE_STRING = '\'\\n\''
+
