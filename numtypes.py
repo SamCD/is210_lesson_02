@@ -1,9 +1,9 @@
-#!/usr/bin/evn python
+#!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
 import decimal
 from decimal import*
-import fraction
+import fractions
 from fractions import Fraction
 FLOATVAR = 0.1
 DECIMALVAR = Decimal(0.1)
