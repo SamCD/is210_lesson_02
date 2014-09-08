@@ -8,6 +8,6 @@ import inquisition
 FISHY = inquisition.SPANISH.replace("surprise", "haddock")
 
 INQ = len(inquisition.SPANISH)
-FL1 = inquisition.SPANISH[0:inquisition.SPANISH.index("Spanish")] + "Flemish"
-FL2 = inquisition.SPANISH[len(FL1): INQ]
+FL1 = FISHY[0:FISHY.index("Spanish")] + "Flemish"
+FL2 = FISHY[len(FL1): INQ ]
 FLEMISH = FL1 + FL2
