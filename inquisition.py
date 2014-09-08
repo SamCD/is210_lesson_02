@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+'''The module goes over multiple items from week two.
+It contains 20 tasks all up uploaded to Github
+This is the third line.'''
 
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
