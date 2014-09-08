@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Practice using simple data types"""
+"""Practice using simple data types."""
 
 IS_TRUE = True
 IS_FALSE = False

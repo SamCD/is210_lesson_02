@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Practice using number types"""
+"""Practice using number types."""
 
 from decimal import Decimal
 from fractions import Fraction
