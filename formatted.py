@@ -2,11 +2,10 @@
 # -*- coding: utf-8 -*-
 """Provides variables for formatting."""
 
-NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number {1}!'
+NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number 0000{1}!'
 FNAME = 'Pat'
 NTYPE = '*amazing*'
-RNUM = str(42).zfill(6)
+RNUM = str(42)
 
-NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number {1}!'
 EMAIL = NEWS.format(NTYPE, RNUM, friend=FNAME)
 print EMAIL
