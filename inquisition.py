@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+'''The module goes over multiple items from week two.
+It contains 20 tasks all up uploaded to Github'''
+
 
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
@@ -10,5 +13,4 @@ and an almost fanatical devotion to the Pope....
 Our four...no... amongst our weapons....
 amongst our weaponry are such elements as fear, surprise....
 I'll come in again.'''
-'''The module goes over multiple items from week two.
-It contains 20 tasks all up uploaded to Github'''
+
