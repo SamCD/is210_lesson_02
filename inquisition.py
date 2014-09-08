@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""This module allows students to practice adding multiline docstrings."""
+"""This module allows students to practice adding multiline docstrings.
 
 
+"""
 SPANISH = """Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
 Our two weapons are fear and surprise...and ruthless efficiency....
