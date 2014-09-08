@@ -2,5 +2,4 @@
 # -*- coding: utf-8 -*-
 """Practice using escape characters"""
 
-ESCAPE_STRING = '\'\\n\''
-
+ESCAPE_STRING = '\\n'
