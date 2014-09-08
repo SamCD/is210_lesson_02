@@ -9,10 +9,10 @@ FISHY = SPANISH.replace('surprise', 'haddock')
 print FISHY
 
 OLD = 'Spanish'
-print len(OLD)
-print SPANISH.index(OLD)
-BEG = SPANISH[:18]
-END = SPANISH[27:]
+L = len(OLD)
+I = FISHY.index(OLD)
+BEG = FISHY[:I]
+END = FISHY[I+L:]
 MID = ' Flemish '
 FLEMISH = BEG + MID + END
 print FLEMISH
