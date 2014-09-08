@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 """Provides variables for formatting."""
 
-NEWS = 'Hi {{friend}}! I have {{1}} news! I won the raffle with number {0}!'.format("000042")
+NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number {1}!'.format("*amazing*",
+        "000042",friend="Pat")
 FNAME = 'Pat'
 NTYPE = '*amazing*'
 RNUM = 42
