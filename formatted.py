@@ -3,7 +3,7 @@
 """Provides variables for formatting."""
 
 NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number {1}!'.format("*amazing*",
-    "000042", friend="Pat")
+        "000042", friend="Pat")
 FNAME = 'Pat'
 NTYPE = '*amazing*'
 RNUM = 42
