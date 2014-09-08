@@ -61,8 +61,8 @@ def is_empty(my_sequence):
     """
     count = get_member_count(my_sequence)
 
-    if count == False:
-        return count is None
+    if count != False or True:
+        return count == 0
     else:
         raise TypeError('Object has no len()')
 
