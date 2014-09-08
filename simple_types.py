@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-#-*- UTF-8 -*-
+# !/usr/bin/env python
+# -*- UTF-8 -*-
 
 IS_TRUE = True
 IS_FALSE = False
