@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+def inquisition(): """ Hilarious monologue from Monty Python and the Holy Grail.
 
+
+"""
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
@@ -10,3 +13,4 @@ and an almost fanatical devotion to the Pope....
 Our four...no... amongst our weapons....
 amongst our weaponry are such elements as fear, surprise....
 I'll come in again.'''
+  
