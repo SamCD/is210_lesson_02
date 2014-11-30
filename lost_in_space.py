@@ -4,3 +4,6 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
+KLAXON = WILL_ROBINSON[:6]
+KLAXON = KLAXON * 5
+print KLAXON
