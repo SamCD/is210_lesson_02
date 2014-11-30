@@ -20,4 +20,8 @@ NERVOUS_AS = """
 """
 
 NERVOUS_AS = NERVOUS_AS.strip()
+<<<<<<< HEAD
 NERVOUS_AS = NERVOUS_AS.lstrip("/").rstrip(",")
+=======
+NERVOUS_AS = NERVOUS_AS.rstrip(',').lstrip('/)
+>>>>>>> 98f4cf33f15c59cbc0a55577d4d9ef65651c58cb
