@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-<<<<<<< HEAD
 """The following is taken from Monty Python.
 The variable SPANISH contains a famous comedic speech."""
-=======
-def inquisition(): """ Hilarious monologue from Monty Python and the Holy Grail.
-
->>>>>>> 98f4cf33f15c59cbc0a55577d4d9ef65651c58cb
-
-"""
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
