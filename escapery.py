@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 """Escapery"""
 
-ESCAPE_STRING = "\n"
+ESCAPE_STRING = '\\n\'"'

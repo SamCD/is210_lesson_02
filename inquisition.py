@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """The following is taken from Monty Python.
-The variable SPANISH contains a famous comedic speech."""
+
+The variable SPANISH contains a famous comedic speech.
+
+It will later be edited"""
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
